@@ -450,8 +450,8 @@ hr {
   padding: 30px 55px;
 }
 .border-btn2 {
-  border: 1px solid #8b92dd;
-  color: #8b92dd;
+  border: 1px solid #707C50;
+  color: #707C50;
   font: "Muli", sans-serif;
   background: none;
   -moz-user-select: none;
@@ -484,7 +484,7 @@ hr {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #8b92dd;
+  background: #707C50;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -5493,7 +5493,7 @@ form.search-box .search-form a {
   transition: 0.4s;
 }
 .single-job-items .job-tittle a h4:hover {
-  color: #8b92dd;
+  color: #707C50;
 }
 .single-job-items .job-tittle ul li {
   display: inline-block;
@@ -5551,9 +5551,9 @@ form.search-box .search-form a {
   }
 }
 .items-link a {
-  color: #8b92dd;
+  color: #707C50;
   display: block;
-  border: 1px solid #8b92dd;
+  border: 1px solid #707C50;
   border-radius: 30px;
   padding: 4px 33px;
   text-align: center;
@@ -5566,7 +5566,7 @@ form.search-box .search-form a {
 }
 .items-link a:hover {
   color: #fff;
-  background: #8b92dd;
+  background: #707C50;
   border: 1px solid transparent;
 }
 .items-link span {
