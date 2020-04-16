@@ -229,7 +229,7 @@ hr {
   position: relative;
 }
 .theme-overlay::before {
-  background: #72507c none repeat scroll 0 0;
+  background: #707C50 none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1951,7 +1951,7 @@ hr {
   }
 }
 .section-tittle h2 {
-  color: #72507c;
+  color: #707C50;
   font-size: 50px;
   font-weight: 700;
   line-height: 1.2;
@@ -1974,14 +1974,14 @@ hr {
   color: #fff;
 }
 .small-section-tittle h4 {
-  color: #72507c;
+  color: #707C50;
   font-size: 18px;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 20px;
 }
 .small-section-tittle2 h4 {
-  color: #72507c;
+  color: #707C50;
   font-size: 18px;
   font-weight: 600;
   line-height: 1.2;
@@ -2011,7 +2011,6 @@ hr {
 .section-overly::before {
   position: absolute;
   content: "";
-  background-color: #72507c;
   width: 100%;
   height: 100%;
   left: 0;
@@ -3181,9 +3180,6 @@ hr {
   font-family: "Muli", sans-serif;
   color: #3a3a3a;
 }
-.home-blog-area .home-blog-single .blog-img-cap .blog-cap .more-btn:hover {
-  color: #72507c;
-}
 .home-blog-single:hover {
   box-shadow: 0px 22px 57px 0px rgba(34, 41, 72, 0.05);
 }
@@ -3291,7 +3287,7 @@ hr {
   color: #2a2a2a;
 }
 .contact-info .media-body h3 a:hover {
-  color: #72507c;
+  color: #707C50;;
 }
 .contact-info .media-body p {
   color: #8a8a8a;
@@ -3374,13 +3370,13 @@ hr {
   }
 }
 .contact-section .btn_2 {
-  background-color: #72507c;
+  background-color: #707C50;
   padding: 18px 60px;
   border-radius: 50px;
   margin-top: 0;
 }
 .contact-section .btn_2:hover {
-  background-color: #72507c;
+  background-color: #707C50;
 }
 .breadcam_bg {
   background-image: url(../img/banner/bradcam.png);
@@ -3643,7 +3639,7 @@ sup,
 sub,
 u,
 del {
-  color: #72507c;
+  color: #707C50;
 }
 .typography h1,
 .typography h2,
@@ -3651,7 +3647,7 @@ del {
 .typography h4,
 .typography h5,
 .typography h6 {
-  color: #828bb2;
+  color: #707C50;
 }
 .button-area {
   background: #fff;
@@ -3735,22 +3731,22 @@ del {
 }
 .genric-btn.primary {
   color: #fff;
-  background: #72507c;
+  background: #707C50;
   border: 1px solid transparent;
 }
 .genric-btn.primary:hover {
-  color: #72507c;
-  border: 1px solid #72507c;
+  color: #707C50;
+  border: 1px solid #707C50;
   background: #fff;
 }
 .genric-btn.primary-border {
-  color: #72507c;
-  border: 1px solid #72507c;
+  color: #707C50;
+  border: 1px solid #707C50;
   background: #fff;
 }
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #72507c;
+  background: #707C50;
   border: 1px solid transparent;
 }
 .genric-btn.success {
@@ -3864,7 +3860,7 @@ del {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #72507c;
+  border-left: 2px solid #707C50;
 }
 .progress-table-wrap {
   overflow-x: scroll;
@@ -3969,7 +3965,7 @@ del {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #72507c;
+  border: 3px solid #707C50;
   background: #fff;
   top: 4px;
   left: 0;
@@ -3980,7 +3976,7 @@ del {
 }
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #72507c;
+  color: #707C50;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -3991,7 +3987,7 @@ del {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #72507c;
+  color: #707C50;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4002,7 +3998,7 @@ del {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #72507c;
+  color: #707C50;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -4063,7 +4059,7 @@ del {
 }
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #72507c;
+  border: 1px solid #707C50;
 }
 .single-input-accent {
   display: block;
@@ -4117,7 +4113,7 @@ del {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #72507c;
+  background: #707C50;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -4192,7 +4188,7 @@ del {
   left: 19px;
 }
 .primary-switch input:checked + label:before {
-  background: #72507c;
+  background: #707C50;
 }
 .confirm-switch {
   width: 35px;
@@ -4509,11 +4505,11 @@ del {
   padding-left: 20px;
 }
 .default-select .nice-select .list .option.selected {
-  color: #72507c;
+  color: #707C50;
   background: transparent;
 }
 .default-select .nice-select .list .option:hover {
-  color: #72507c;
+  color: #707C50;
   background: transparent;
 }
 .default-select .current {
@@ -4556,11 +4552,11 @@ del {
   padding-left: 45px;
 }
 .form-select .nice-select .list .option.selected {
-  color: #72507c;
+  color: #707C50;
   background: transparent;
 }
 .form-select .nice-select .list .option:hover {
-  color: #72507c;
+  color: #707C50;
   background: transparent;
 }
 .form-select .current {
@@ -5339,7 +5335,7 @@ form.search-box .search-form a {
 .support-company-area .support-location-img .support-img-cap {
   position: absolute;
   bottom: 0px;
-  background: #72507c;
+  background: #707C50;
   padding: 59px 28px;
   border-radius: 5px;
   left: -100px;
