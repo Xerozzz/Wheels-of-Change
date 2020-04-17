@@ -5570,7 +5570,7 @@ form.search-box .search-form a {
   border: 1px solid transparent;
 }
 .items-link span {
-  color: #454d72;
+  color: #707C50;
   display: block;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5675,8 +5675,8 @@ form.search-box .search-form a {
   background: #c0c0c0;
 }
 .testimonial-area .dot-style .slick-dots .slick-active button {
-  background: #ff4357;
-  background: #ff4357;
+  background: #707C50;
+  background: #707C50;
   height: 12px;
   width: 12px;
   position: relative;
@@ -5747,7 +5747,7 @@ form.search-box .search-form a {
   visibility: visible;
 }
 .t-bg {
-  background: #021a47;
+  background: #707C50;
 }
 .slick-initialized .slick-slide {
   outline: 0;
@@ -6026,7 +6026,7 @@ form.search-box .search-form a {
 }
 .job-listing-area .count-job span {
   padding-right: 15px;
-  color: #1e2147;
+  color: #707C50;
   font-size: 16px;
 }
 @media (max-width: 767px) {
@@ -6172,7 +6172,7 @@ form.search-box .search-form a {
   .container
   input:checked
   ~ .checkmark {
-  background-color: #ff4357;
+  background-color: #707C50;
   border: 2px solid transparent;
 }
 .job-category-listing .single-listing .select-Categories .checkmark:after {
@@ -6228,10 +6228,10 @@ form.search-box .search-form a {
 .irs-bar {
   height: 6px;
   top: 33px;
-  border-top: 1px solid #ff3368;
-  border-bottom: 1px solid #ff3368;
-  background: #ff3368;
-  background: linear-gradient(to top, #ff3368 0%, #ff3368 100%);
+  border-top: 1px solid #707C50;
+  border-bottom: 1px solid #707C50;
+  background: #707C50;
+  background: linear-gradient(to top, #707C50 0%, #707C50 100%);
 }
 .irs-line {
   height: 6px;
@@ -6244,9 +6244,9 @@ form.search-box .search-form a {
 .irs-slider {
   height: 15px;
   width: 15px;
-  border: 1px solid #ff3368;
-  background-color: #ff3368;
-  background: linear-gradient(to bottom, #ff3368 0%, #ff3368 20%, #ff3368 100%);
+  border: 1px solid #707C50;
+  background-color: #707C50;
+  background: linear-gradient(to bottom, #707C50 0%, #707C50 20%, #707C50 100%);
   top: 28px;
   box-shadow: none;
   border-radius: 0;
@@ -6321,6 +6321,6 @@ form.search-box .search-form a {
   position: relative;
   box-shadow: none;
   outline: 0;
-  background: #242b5e;
+  background: #707C50;
   color: #fff;
 }
