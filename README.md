@@ -1,5 +1,3 @@
-# xerozzz.github.io
-
 ## Inspiration
 
 ### With the story and content of Wheels of Change, what’s the driving force of this project?
